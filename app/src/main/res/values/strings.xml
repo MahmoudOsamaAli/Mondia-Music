@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mondia Music</string>
+    <string name="search_title">Search Music</string>
+    <string name="search_hint">search music</string>
+    <string name="start_search">Start searching for your favorite songs</string>
+    <string name="no_songs_found">Can\'t find any match with your request</string>
+    <string name="search_query_hint">Search by song or album title…</string>
+    <string name="publishing_date">Publishing Date</string>
+    <string name="duration">Duration</string>
+    <string name="artist">Artist</string>
+    <string name="type">Type</string>
+    <string name="time_minutes_seconds_formatter">%02d:%02d</string>
+</resources>
